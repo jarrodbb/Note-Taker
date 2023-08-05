@@ -72,7 +72,7 @@ Click the "Get Started" Button to go to the Notes Page
 #### Click save button in top right corner
 <img width="206" alt="Screenshot 2023-08-05 at 2 05 42 pm" src="https://github.com/jarrodbb/Note-Taker/assets/132813348/ad5841bc-a63a-4432-a14f-9a6c664dfebf">
 
-#### Note save to left column
+#### Note saved to left column
 <img width="1597" alt="Screenshot 2023-08-05 at 2 05 52 pm" src="https://github.com/jarrodbb/Note-Taker/assets/132813348/53936dab-e42b-41de-b063-2d200dad8674">
 
 #### Adding more notes will be saved in the same column.
