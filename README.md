@@ -2,13 +2,13 @@
 
 Note Taker
 
-## Desciption
+## Description
 
 Application to write and save notes so the user can organise their thoughts and keep track of tasks
 
 The User is required to input a Title and Text for the note. Once saved, it will be displayed on the side of the application along with any previous notes.
 
-The user us also given the funcitonality to delete any prefered note
+The user us also given the functionality to delete any preferred note
 
 ## Table of Contents
 
@@ -56,26 +56,36 @@ Add a .gitignore file and add node_modules to ensure the third-party packages ar
 ## Usage
 
 #### Landing Page
+<img width="1605" alt="Screenshot 2023-08-05 at 2 01 46 pm" src="https://github.com/jarrodbb/Note-Taker/assets/132813348/71c2fc56-f33e-4565-98eb-af4dbd9882f6">
 
 Click the "Get Started" Button to go to the Notes Page
 
 #### Notes Page
+<img width="527" alt="Screenshot 2023-08-05 at 2 10 14 pm" src="https://github.com/jarrodbb/Note-Taker/assets/132813348/4182b524-67fb-44ed-b5fa-340fc71228d2">
 
 #### Input the Title and Text for the note
+<img width="1599" alt="Screenshot 2023-08-05 at 2 05 04 pm" src="https://github.com/jarrodbb/Note-Taker/assets/132813348/9633068d-3c60-4504-a9d2-d32774c8ebeb">
 
-#### CLick save button in top right corner
+#### Click save button in top right corner
+<img width="206" alt="Screenshot 2023-08-05 at 2 05 42 pm" src="https://github.com/jarrodbb/Note-Taker/assets/132813348/ad5841bc-a63a-4432-a14f-9a6c664dfebf">
 
 #### Note save to left column
+<img width="1597" alt="Screenshot 2023-08-05 at 2 05 52 pm" src="https://github.com/jarrodbb/Note-Taker/assets/132813348/53936dab-e42b-41de-b063-2d200dad8674">
 
 #### Adding more notes will be saved in the same column.
+<img width="1601" alt="Screenshot 2023-08-05 at 2 07 24 pm" src="https://github.com/jarrodbb/Note-Taker/assets/132813348/8d3dd172-7c4a-4adc-8c13-212cd3eb6b32">
 
 All notes are saved to db.json in the db folder
 
 #### Clicking an existing note will display it in the main section
+<img width="1598" alt="Screenshot 2023-08-05 at 2 08 50 pm" src="https://github.com/jarrodbb/Note-Taker/assets/132813348/f5d2ff39-476a-457e-91d3-a9f07ccf0d0d">
 
-#### Clicking the + buttton allows the user to add another note
+#### Clicking the + button allows the user to add another note
+<img width="1099" alt="Screenshot 2023-08-05 at 2 09 27 pm" src="https://github.com/jarrodbb/Note-Taker/assets/132813348/94248d87-53a7-4fd0-884d-4eda666898ef">
 
 #### To delete a note, click the red Bin icon
+<img width="516" alt="Screenshot 2023-08-05 at 2 10 01 pm" src="https://github.com/jarrodbb/Note-Taker/assets/132813348/578649fc-cffb-433d-a3a6-a3e6b332c8b9">
+<img width="1595" alt="Screenshot 2023-08-05 at 2 15 09 pm" src="https://github.com/jarrodbb/Note-Taker/assets/132813348/68fce9cc-e0c8-42f5-9468-2e0939ea3f9e">
 
 This removes it from the application and the db.json file
 
