@@ -58,7 +58,7 @@ Add a .gitignore file and add node_modules to ensure the third-party packages ar
 
 #### Deployed Link using Heroku
 
-[Note Taker](https://organise-your-life-note-taker-5a8022c9039c.herokuapp.com/notes)
+[Note Taker](https://organise-your-life-note-taker-5a8022c9039c.herokuapp.com/)
 
 ## Usage
 
