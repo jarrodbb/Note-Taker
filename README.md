@@ -64,7 +64,7 @@ Add a .gitignore file and add node_modules to ensure the third-party packages ar
 Click the "Get Started" Button to go to the Notes Page
 
 #### Notes Page
-<img width="527" alt="Screenshot 2023-08-05 at 2 10 14 pm" src="https://github.com/jarrodbb/Note-Taker/assets/132813348/4182b524-67fb-44ed-b5fa-340fc71228d2">
+<img width="1597" alt="Screenshot 2023-08-05 at 2 04 09 pm" src="https://github.com/jarrodbb/Note-Taker/assets/132813348/e9ef3309-a464-4852-86f4-dc3d8af13b3a">
 
 #### Input the Title and Text for the note
 <img width="1599" alt="Screenshot 2023-08-05 at 2 05 04 pm" src="https://github.com/jarrodbb/Note-Taker/assets/132813348/9633068d-3c60-4504-a9d2-d32774c8ebeb">
