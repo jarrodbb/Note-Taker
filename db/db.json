@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "title": "Tuesday Meeting",
+        "text": "Meeting with Tim",
+        "id": "263d6056-5f9c-40ae-abc3-fd72854dc9fc"
+    },
+    {
+        "title": "Wednesday Meeting",
+        "text": "Meeting with Sam",
+        "id": "3bc008e3-8fae-49af-8d76-1c8415829c29"
+    }
+]

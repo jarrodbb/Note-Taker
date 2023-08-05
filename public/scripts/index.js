@@ -1,4 +1,7 @@
-let noteTitle;
+//Front end 
+
+// new variables created
+let noteTitle; 
 let noteText;
 let saveNoteBtn;
 let newNoteBtn;
@@ -25,6 +28,7 @@ const hide = (elem) => {
 // activeNote is used to keep track of the note in the textarea
 let activeNote = {};
 
+// get request for getting from database
 const getNotes = () =>
   fetch("/api/notes", {
     method: "GET",
@@ -33,6 +37,7 @@ const getNotes = () =>
     },
   });
 
+// post request for sending to database
 const saveNote = (note) =>
   fetch("/api/notes", {
     method: "POST",
@@ -42,6 +47,7 @@ const saveNote = (note) =>
     body: JSON.stringify(note),
   });
 
+  // delete request for deleting 
 const deleteNote = (id) =>
   fetch(`/api/notes/${id}`, {
     method: "DELETE",
@@ -66,11 +72,15 @@ const renderActiveNote = () => {
   }
 };
 
+// function to save new inputted note
 const handleNoteSave = () => {
   const newNote = {
     title: noteTitle.value,
     text: noteText.value,
   };
+  // calls saveNote function with makes a post request
+  // then calls getAndRenderNotes which makes a get request then renders whats in the database
+  // and calls the renderActiveNote
   saveNote(newNote).then(() => {
     getAndRenderNotes();
     renderActiveNote();
