@@ -33,12 +33,15 @@ Add a .gitignore file and add node_modules to ensure the third-party packages ar
 #### Public
 
 [index.js](https://github.com/jarrodbb/Note-Taker/blob/main/public/scripts/index.js)
+
 [index.html](https://github.com/jarrodbb/Note-Taker/blob/main/public/index.html)
+
 [notes.html](https://github.com/jarrodbb/Note-Taker/blob/main/public/pages/notes.html)
 
 #### Routes
 
 [index.js](https://github.com/jarrodbb/Note-Taker/blob/main/routes/index.js)
+
 [notes.js](https://github.com/jarrodbb/Note-Taker/blob/main/routes/notes.js)
 
 #### Database
